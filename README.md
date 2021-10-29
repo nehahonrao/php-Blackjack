@@ -3,7 +3,7 @@ Introdued to OOPS for first time.
 DAY 1: 
 
 Try to understnd oops concept and at the end came to know that class is template for object and object is instance of class.
-OOPS are use to keep your code DRY(Do not Repet Yourself).
+OOPS are use to keep your code DRY(Do not Repeat Yourself).
 I learned to create properties and methods.
 
 DAY 2:
